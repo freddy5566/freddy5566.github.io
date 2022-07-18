@@ -209,8 +209,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: Yao-Fei
-  first_name: Cheng
+  last_name: [Cheng, C]
+  first_name: [Yao-Fei, YF]
 
   style: apa
   locale: en
