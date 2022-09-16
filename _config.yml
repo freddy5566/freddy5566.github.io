@@ -206,8 +206,8 @@ display_tags: [] # this tags will be dispalyed on the front page of your blog
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: Yao-Fei
-  first_name: [Cheng, C]
+  last_name: Cheng
+  first_name: Yao-Fei
 
   style: apa
   locale: en
