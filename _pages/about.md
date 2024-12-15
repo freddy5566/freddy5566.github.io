@@ -18,8 +18,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a second-year master's student at UW, supervised by Prof. [Shane Steinert-Threlkeld](https://www.shane.st/).
 
 Before UW, I was a research assistant supervised by Prof. [Wang, Hsin-Min](https://homepage.iis.sinica.edu.tw/pages/whm/index_en.html), Prof. [Tsao, Yu](https://www.citi.sinica.edu.tw/pages/yu.tsao/index_en.html), Prof. [Ko, Ming-Tat](https://homepage.iis.sinica.edu.tw/pages/mtko/index_en.html) at the Institue of Information Science, Academia Sinica. I received a B.S. in Computer Science and Information Engineering from [National Taipei University of Technology (Taipei Tech)](https://www-en.ntut.edu.tw) in June 2021.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to that, I was a data engineer intern at [LINE Taiwan](https://linecorp.com/en/), where I developed NLP tools to solve real-world problems. Before I pivoted to the field of NLP, I was a software developer intern at [iCook](https://icook.tw) and [Glossika](https://ai.glossika.com), where I learned the foundations of software development.
+
+My research interests are speech and natural language processing (SLP). Specifically, I am interested in the following topics:
+
+(a) make language technologies accessible: can we design model architectures that are less data-hungry and computing efficient?
+
+(b) multi-modal language technologies: as human communications involves a lot of different modalities, can we design model architectures that are more capable of multi-modal interactions?
+
+(c) understanding model behaviors: I believe the most efficient way to improve current language technologies is by understanding the models' behavior and limitations. By analyzing model behavior, we can better design model architectures that are less data-hungry and computing efficient.
