@@ -3,8 +3,8 @@ layout: page
 permalink: /publications/
 title: Publications
 description: <b>*</b> denotes equal contribution
-years_preprint: [2023]
-years: [2022, 2021]
+years_preprint: [2024, 2023]
+years: [2024, 2023, 2022, 2021]
 nav: true
 nav_order: 1
 ---
